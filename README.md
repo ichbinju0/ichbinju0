@@ -1,16 +1,22 @@
-## Hi there 👋
+## Welcome to Juyoung's repository!
 
-<!--
-**ichbinju0/ichbinju0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ITM Student at SeoulTech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **Languages**: Java, Python, SQL 
+- **Tools & Platforms**: Git, GitHub, Notion 
+
+---
+
+## Contact Me
+
+- **Email**: hahalove79@naver.com
+- **LinkedIn**: https://www.linkedin.com/in/%EC%A3%BC%EC%98%81-%EC%B5%9C-274342347/
+- **Portfolio**: I will add later ...
+
+---
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler
